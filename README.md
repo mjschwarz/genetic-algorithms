@@ -27,11 +27,21 @@ Compare the performance of genetic algorithms versus traditional approaches for 
 
 ## Background
 1. Knapsack
-  -  Problem description: https://www.educative.io/answers/what-is-the-knapsack-problem
-  -  Traditional approach (Recursive backtracking): https://www.tutorialspoint.com/introduction-to-backtracking
+  -  Problem description: Find the optimal packing of a knapsack with given weight capacity and a set of items with individual values and weights such that the value of the knapsack is maximized
+
+     - https://www.educative.io/answers/what-is-the-knapsack-problem
+  -  Traditional approach: **Recursive backtracking**
+
+     -  https://www.tutorialspoint.com/introduction-to-backtracking
 2. N-Queens
-  - Problem description: https://en.wikipedia.org/wiki/Eight_queens_puzzle
-  - Traditional approach (Dynamic programming): https://www.programiz.com/dsa/dynamic-programming
+  - Problem description: Find a valid placement of N Queens on an NxN chessboard such that no Queen is under attack by any other Queen
+
+    - https://en.wikipedia.org/wiki/Eight_queens_puzzle
+  - Traditional approach: **Dynamic programming**
+
+    - https://www.programiz.com/dsa/dynamic-programming
 3. Class Schedule
   - Problem description: Find a valid class ordering given a list of courses with prerequisites
-  - Traditional approach (Topological sort): https://en.wikipedia.org/wiki/Topological_sorting
+  - Traditional approach: **Topological sort**
+
+    - https://en.wikipedia.org/wiki/Topological_sorting
