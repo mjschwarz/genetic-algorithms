@@ -8,6 +8,7 @@
 4. Install a few packages if you have not already by running the following commands in the terminal:
 
 `pip3 install numpy`
+
 `pip3 install matplotlib`
 
 3. Using the terminal, enter into the directory of the .zip folder and run the following command:
