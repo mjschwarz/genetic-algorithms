@@ -1,6 +1,7 @@
 # Strengths and Weaknesses of Genetic Algorithms
 
 ## Instructions (How to Run)
+**Note**: These instructions were formulated for Mac and may not work for Windows users
 
 1. Read the Objective, Background, and Findings sections of this README to familiarize yourself with our project motivations.
 2. Download the .zip file to your computer.
