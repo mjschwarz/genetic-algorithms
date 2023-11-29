@@ -3,7 +3,7 @@
 ## Peer Evaluation Instructions
 **Note**: These instructions were formulated for Mac and may not work for Windows users
 
-1. Read the Objective and Background sections of this README to familiarize yourself with our project motivations.
+1. Read the Objective and Background sections at the bottom of this README to familiarize yourself with our project motivations.
 2. Download the .zip file to your computer.
 3. Ensure you have a relatively recent version of Python installed (likely 3.7+). You can check your version by running the following command in your terminal:
 
