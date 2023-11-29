@@ -5,8 +5,11 @@
 
 1. Read the Objective and Background sections of this README to familiarize yourself with our project motivations.
 2. Download the .zip file to your computer.
-3. Ensure you have a relatively recent version of Python installed (likely 3.7+)
-4. Install a few packages if you have not already by running the following commands in the terminal:
+3. Ensure you have a relatively recent version of Python installed (likely 3.7+). You can check your version by running the following command in your terminal:
+
+`python3 --version`
+
+5. Install a few packages if you have not already by running the following commands in the terminal:
 
 `pip3 install numpy`
 
