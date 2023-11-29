@@ -1,6 +1,6 @@
 # Strengths and Weaknesses of Genetic Algorithms
 
-## Instructions (How to Run)
+## Peer Evaluation Instructions
 **Note**: These instructions were formulated for Mac and may not work for Windows users
 
 1. Read the Objective and Background sections of this README to familiarize yourself with our project motivations.
@@ -21,6 +21,8 @@
 
 4. Now, wait for the code to execute and you should see the output printed in the console (on my machine the entire execution took less than 2 minutes – but this will vary by machine).
 5. For more detailed explanation of the code and results check out the Jupyter Notebook (.ipynb) for each specific problem (these notebooks contain code, explanation, output, and analysis).
+
+---
 
 ## Objective
 Compare the performance of genetic algorithms versus traditional approaches for three different types of problems.
