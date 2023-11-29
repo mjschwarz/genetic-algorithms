@@ -43,7 +43,7 @@ Compare the performance of genetic algorithms versus traditional approaches for 
 
     - https://www.programiz.com/dsa/dynamic-programming
 3. Class Schedule
-  - Problem description: Find a valid class ordering given a list of courses with prerequisites
+  - Problem description: Find a valid class ordering given a list of courses with prerequisites (and possibly some other desired critieria)
   - Traditional approach: **Topological sort**
 
     - https://en.wikipedia.org/wiki/Topological_sorting
